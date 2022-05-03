@@ -7,7 +7,7 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: false
 logo: logo.jpg
 github: is\_project\_page:false
 social-network-links:
