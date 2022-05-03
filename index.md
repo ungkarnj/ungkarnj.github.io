@@ -1,13 +1,11 @@
-Bibiography
+# Bibiography
 
-You can use the [editor on GitHub](https://github.com/ungkarnj/ungkarnj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Dr Ungkarn was appointed as a resercher at National Electronics and Computer Technolofy Center (Thailand). Dr Ungkarn took a BEng in Computer Engineering at Thammasart University, Thailand. Then, He continued to undertake MEng at Chulalongkorn University, Thailand. In 2021, Dr Ungkarn grauated from PhD in Biomedical Engineering at James Watt School of Engineering, University of Glasgow, UK. His PhD developed an sceintific instrument to reveal microrheological behaviours of biological fluids under supervision of Professor Jon Copper and Dr Julien Reboud by collaboration with Dr Manlio Tassieri.
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Research Interests
+My research interests are in the use of light scattering techniques to investigate microrhological responses of fluids and to retreive micro-nanoparticle size distribution. Application spans from biological researches to clinical practices. Microrheological characterisation benefits for manufacturing and lifesciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antiboy interactions. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
