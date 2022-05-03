@@ -8,11 +8,8 @@ My research interests are in the use of light scattering techniques to investiga
 
 
 ```markdown
-Syntax highlighted code block
+### **Bold** A portable microrheology device
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -20,7 +17,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+# **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
