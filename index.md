@@ -9,30 +9,20 @@ My research interests are in the use of light scattering techniques to investiga
 
 # Research
 ## A portable microrheology device
+![Image](https://ungkarnj.github.io/img/device1.jpg)
 We created a tool for characterising microrheological responses for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 
 ## Particle sizing
+[Link](url) and ![Image](https://ungkarnj.github.io/img/device1.jpg)
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles.
 
 
 
-# Collaborators
 
 
-```markdown
 
-- Bulleted
-- List
-![Image](https://ungkarnj.github.io/img/device1.jpg)
 
-1. Numbered
-2. List
-
-# **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://ungkarnj.github.io/img/device1.jpg)
-```
 
 
 
