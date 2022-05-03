@@ -1,6 +1,6 @@
 # Bibiography
 
-Dr Ungkarn was appointed as a resercher at National Electronics and Computer Technolofy Center (Thailand). Dr Ungkarn took a BEng in Computer Engineering at Thammasart University, Thailand. Then, He continued to undertake MEng at Chulalongkorn University, Thailand. In 2021, Dr Ungkarn grauated PhD in Biomedical Engineering from James Watt School of Engineering, University of Glasgow, UK. His PhD developed an sceintific instrument to reveal microrheological behaviours of biological fluids under supervision of Professor Jon Copper and Dr Julien Reboud by collaboration with Dr Manlio Tassieri.
+Dr Ungkarn was appointed as a researcher at National Electronics and Computer Technolofy Center (Thailand). Dr Ungkarn took a BEng in Computer Engineering at Thammasart University, Thailand. Then, He continued to undertake MEng at Chulalongkorn University, Thailand. In 2021, Dr Ungkarn grauated PhD in Biomedical Engineering from James Watt School of Engineering, University of Glasgow, UK. His PhD developed an sceintific instrument to reveal microrheological behaviours of biological fluids under supervision of Professor Jon Copper and Dr Julien Reboud by collaboration with Dr Manlio Tassieri.
 
 
 # Research Interests
@@ -37,10 +37,4 @@ We developed an alorithm to recover micro-nano particle size distribution of col
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ungkarnj/ungkarnj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
