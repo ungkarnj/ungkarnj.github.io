@@ -4,11 +4,11 @@ Dr Ungkarn was appointed as a resercher at National Electronics and Computer Tec
 
 
 # Research Interests
-My research interests are in the use of light scattering techniques to investigate microrhological responses of fluids and to retreive micro-nanoparticle size distribution. Application spans from biological researches to clinical practices. Microrheological characterisation benefits for manufacturing and lifesciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antiboy interactions. 
+My research interests are in the use of light scattering techniques to investigate microrhological responses of fluids and to retreive size distribution of colloidal micro-nanoparticles. Study of microrheology benefits for manufacturing and lifesciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antiboy interactions. Application spans from biological researches to clinical practices.
 
 
 ```markdown
-### **Bold** A portable microrheology device
+**Bold** A portable microrheology device
 
 
 - Bulleted
