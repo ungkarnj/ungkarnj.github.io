@@ -26,14 +26,14 @@ We developed an alorithm to recover micro-nano particle size distribution of col
 
 - Bulleted
 - List
-![Image](ungkarnj.github.io/img/device1.jpg)
+![Image](https://ungkarnj.github.io/img/device1.jpg)
 
 1. Numbered
 2. List
 
 # **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](/ungkarnj.github.io/img/device1.jpg)
+[Link](url) and ![Image](https://ungkarnj.github.io/img/device1.jpg)
 ```
 
 
