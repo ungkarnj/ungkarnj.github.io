@@ -1,8 +1,13 @@
 ---
 title: DR Ungkarn Jarujareet
 timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 social-network-links:
-  email: "ungakarn.jarujareet@nectec.or.th"
-  #  ORCID: your ORCID ID
-  
+  email: ungakarn.jarujareet@nectec.or.th
 theme: academic
