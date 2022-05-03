@@ -9,8 +9,7 @@ collections:
     title: Uploads
     output: false
 logo: logo.jpg
-include:
-- img
+include: - img
 github: is\_project\_page:false
 social-network-links:
   email: ungakarn.jarujareet@nectec.or.th
