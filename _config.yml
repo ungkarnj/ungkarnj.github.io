@@ -9,8 +9,7 @@ collections:
     title: Uploads
     output: true
 logo: logo.jpg
-github:
-  is_project_page: false
+github: is\_project\_page:false
 social-network-links:
   email: ungakarn.jarujareet@nectec.or.th
 theme: jekyll-theme-minimal
