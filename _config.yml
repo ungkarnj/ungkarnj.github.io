@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-logo: "/assets/logo.jpg"
+logo: "logo.jpg"
 social-network-links:
   email: ungakarn.jarujareet@nectec.or.th
 theme: jekyll-theme-minimal
