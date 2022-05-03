@@ -21,8 +21,6 @@ We developed an alorithm to recover micro-nano particle size distribution of col
 
 
 ```markdown
-**A portable microrheology device**
-
 
 - Bulleted
 - List
