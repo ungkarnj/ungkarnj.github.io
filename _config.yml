@@ -10,7 +10,7 @@ collections:
     output: false
 logo: logo.jpg
 include:
-  - "_img"
+- _img
 github: is\_project\_page:false
 social-network-links:
   email: ungakarn.jarujareet@nectec.or.th
