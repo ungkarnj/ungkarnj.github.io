@@ -10,6 +10,5 @@ collections:
     output: false
 logo: logo.jpg
 github: is\_project\_page:false
-social-network-links:
-  email: ungakarn.jarujareet@nectec.or.th
+email: ungakarn.jarujareet@nectec.or.th
 theme: jekyll-theme-minimal
