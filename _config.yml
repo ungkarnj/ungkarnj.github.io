@@ -1,6 +1,7 @@
 ---
 title: DR Ungkarn Jarujareet
 timezone: UTC
+logo: /assets/logo.jpg
 collections:
   posts:
     title: Posts
