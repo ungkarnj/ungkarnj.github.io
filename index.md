@@ -14,7 +14,7 @@ We created a tool for characterising microrheological responses for biological f
 
 
 ## Particle sizing
-[Link](url) and ![Image](https://ungkarnj.github.io/img/device1.jpg)
+[Link](url) and ![Image](img/device1.jpg)
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles.
 
 
