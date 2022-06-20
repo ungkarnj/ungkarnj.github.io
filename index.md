@@ -20,8 +20,10 @@ We created a tool for characterising microrheological responses for biological f
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles from their motions.
 
 
-
-
+# Collaborations
+Department of Statistics, Faculty of Science, Khonkaen university, Thailand.
+Faculty of Dentistry, Thammasat university, Thailand.
+Faculty of Medicine, Chaing Mai university, Thailand.
 
 
 
