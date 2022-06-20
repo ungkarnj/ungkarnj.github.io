@@ -23,7 +23,7 @@ We developed an alorithm to recover micro-nano particle size distribution of col
 # Collaborations
 Department of Statistics, Faculty of Science, Khonkaen university, Thailand. <br/>
 Faculty of Dentistry, Thammasat university, Thailand. <br/>
-Faculty of Medicine, Chaing Mai university, Thailand. <br/>
+Faculty of Medicine, Chiang Mai university, Thailand. <br/>
 
 
 
