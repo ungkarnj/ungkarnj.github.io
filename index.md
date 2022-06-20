@@ -12,7 +12,7 @@ email: ungkarn.jarujareet@nectec.or.th
 # Research
 ## A portable microrheology device
 ![Image](img/device1.jpg)
-We created a tool for characterising microrheological responses for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
+We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 
 ## Particle sizing
