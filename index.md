@@ -11,12 +11,12 @@ email: ungkarn.jarujareet@nectec.or.th
 
 # Research
 ## A portable microrheology device
-![Image](img/device1.jpg)
+![Image](img/device1.jpg) <br/>
 We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 
 ## Particle sizing
-![Image](img/particle_sizing.jpg)
+![Image](img/particle_sizing.jpg) <br/>
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles from their motions.
 
 
