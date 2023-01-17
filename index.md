@@ -21,6 +21,7 @@ We developed an alorithm to recover micro-nano particle size distribution of col
 
 
 ## Smartphone spectrometer
+![Image](img/spectro.png) <br/>
 Investigation of the optical properties of a material, which is based on how the material absorbs, transmits, and reflects light, can be used to study biochemical analytes. The optical spectroscopy is a common scientific instrument for quantifying the light absorbance of analytes. It broke up collected light into various light spectrum components and monitored light intensity as a function of wavelength. 
 Advancement in smartphone technology has led to the development of portable, low-cost smartphone-based spectrometers. These devices can be used in various applications, such as food and beverage analysis, medical diagnostics, and environmental monitoring.
 
