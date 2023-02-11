@@ -1,6 +1,6 @@
 # Bibiography
 
-Dr Ungkarn was appointed as a researcher at National Electronics and Computer Technology Center, Thailand. Dr Ungkarn took a BEng in Computer Engineering at Thammasat University, Thailand. Then, He continued to undertake MEng at Chulalongkorn University, Thailand. In 2021, Dr Ungkarn graduated with a PhD in Biomedical Engineering from James Watt School of Engineering, University of Glasgow, UK. His PhD developed a sceintific instrument to reveal microrheological behaviours of biological fluids under supervision of Professor Jon Cooper and Dr Julien Reboud, and in collaboration with Dr Manlio Tassieri.
+Dr Ungkarn was appointed as a researcher at National Electronics and Computer Technology Center, Thailand. Dr Ungkarn took a BEng in Computer Engineering at Thammasat University, Thailand. Then, He continued to undertake MEng at Chulalongkorn University, Thailand. In 2021, Dr Ungkarn graduated with a PhD in Biomedical Engineering from James Watt School of Engineering, University of Glasgow, UK. His PhD developed a sceintific instrument to reveal microrheological behaviours of biological fluids under supervision of Professor Jon Cooper and Dr Julien Reboud, and in a collaboration with Dr Manlio Tassieri.
 
 
 # Research Interests
