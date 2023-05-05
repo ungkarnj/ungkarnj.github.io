@@ -4,7 +4,7 @@ Dr Ungkarn Jarujareet was appointed as a researcher at National Electronics and 
 
 
 # Research Interests
-My research interests are in the use of light scattering techniques to investigate microrheological responses of fluids and to retreive size distribution of colloidal micro-nanoparticles. Study of microrheology benefits for manufacturing and life sciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antiboy interactions. Application spans from biological researches to clinical practices.
+My research interests are in the use of light scattering techniques to investigate microrheological responses of fluids and to retreive size distribution of colloidal micro-nanoparticles. Study of microrheology benefits for manufacturing and life sciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antibody interactions. Application spans from biological researches to clinical practices.
 
 # Contact
 email: ungkarn.jarujareet@nectec.or.th
