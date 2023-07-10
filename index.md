@@ -15,6 +15,7 @@ email: ungkarn.jarujareet@nectec.or.th
 We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 ### DeepDDM
+<img src="img/DeepDDM.jpg" width="400"> <br/>
 A compact deep-learning assisted platform for micro-rheological assessment of micro-volume fluids.
 
 *U. Jarujareet, K. Wiratchawa, P. Panpisut and T. Intharah, "DeepDDM: A Compact Deep-Learning Assisted Platform for Micro-Rheological Assessment of Micro-Volume Fluids," in IEEE Access, vol. 11, pp. 66467-66477, 2023, doi: 10.1109/ACCESS.2023.3290496.*
