@@ -10,7 +10,7 @@ My research interests are in the use of light scattering techniques to investiga
 email: ungkarn.jarujareet@nectec.or.th
 
 # Grant
-2023 - TRF Grant for New Researcher, National Research Council of Thailand (NRCT).
+2024 to 2026 - TRF Grant for New Researcher, National Research Council of Thailand (NRCT).
 
 # Research
 ## A portable device for microrheological characterisation
