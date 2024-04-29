@@ -8,11 +8,11 @@ orcid : https://orcid.org/0000-0002-3593-5733
 # Research Interests
 My research interests are in the use of light scattering techniques to investigate microrheological responses of fluids and to retreive size distribution of colloidal micro-nanoparticles. Study of microrheology benefits for manufacturing and life sciences research producing precisely defined materials of interest. Whereas, micro-nano particle sizing to create a tools aiming at detection of protein aggregation and antigen-antibody interactions. Application spans from biological researches to clinical practices.
 
+# Grants
+2024 to 2026 - TRF Grant for New Researcher, National Research Council of Thailand (NRCT), Principal Investigator.
+
 # Contact
 email: ungkarn.jarujareet@nectec.or.th
-
-# Grant
-2024 to 2026 - TRF Grant for New Researcher, National Research Council of Thailand (NRCT).
 
 # Research
 ## A portable device for microrheological characterisation
