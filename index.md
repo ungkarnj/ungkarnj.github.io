@@ -21,10 +21,11 @@ We created a tool for characterising microrheological responses(e.g. loss and st
 
 ### DeepDDM
 <img src="img/DeepDDM.jpg" width="400"> <br/>
-A compact deep-learning assisted platform for micro-rheological assessment of micro-volume fluids.
+We proposed a compact deep-learning assisted platform for micro-rheological assessment of micro-volume fluids for investigating artificial saliva rheological properties and thier relationship to dentin remineralization.
 
 *U. Jarujareet, K. Wiratchawa, P. Panpisut and T. Intharah, "DeepDDM: A Compact Deep-Learning Assisted Platform for Micro-Rheological Assessment of Micro-Volume Fluids," in IEEE Access, vol. 11, pp. 66467-66477, 2023, doi: 10.1109/ACCESS.2023.3290496.*
 
+*S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut (2024). The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS). https://doi.org/10.1371/journal.pone.0304156*
 
 ## Particle sizing
 <img src="img/particle_sizing.jpg" width="300"> <br/>
