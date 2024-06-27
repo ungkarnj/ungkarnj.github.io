@@ -27,11 +27,12 @@ We proposed a compact deep-learning assisted platform for micro-rheological asse
 
 *S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut (2024). The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS). doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
 
+---
 ## Particle sizing
 <img src="img/particle_sizing.jpg" width="300"> <br/>
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles from their motions.
 
-
+---
 ## Smartphone spectrometer
 <img src="img/spectro.png" width="300"> <br/>
 Investigation of the optical properties of a material, which is based on how the material absorbs, transmits, and reflects light, can be used to study biochemical analytes. The optical spectroscopy is a common scientific instrument for quantifying the light absorbance of analytes. It broke up collected light into various light spectrum components and monitored light intensity as a function of wavelength. 
@@ -39,7 +40,7 @@ Advancement in smartphone technology has led to the development of portable, low
 
 *Jarujareet U., Pichayawaytin G., Sripetch P., Doljirapisit N., Sumriddetchkajorn S., Prempree P., Chaitavon K., Punpetch P., and Amarit R., “A Low-Cost Dual-Beam Smartphone Visible Spectrometer”, Journal of Chemical Education, 2023, 100 (2), 546-553, doi: <a href="https://doi.org/10.1021/acs.jchemed.2c00642"> 10.1021/acs.jchemed.2c00642 </a>.*
 
-
+---
 # Collaborations
 Department of Statistics, Faculty of Science, Khonkaen university, Thailand. <br/>
 Faculty of Dentistry, Thammasat university, Thailand. <br/>
