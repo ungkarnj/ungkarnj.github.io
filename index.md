@@ -52,6 +52,7 @@ Advancement in smartphone technology has led to the development of portable, low
 <sub>
 Jarujareet U., Pichayawaytin G., Sripetch P., Doljirapisit N., Sumriddetchkajorn S., Prempree P., Chaitavon K., Punpetch P., and Amarit R., “A Low-Cost Dual-Beam Smartphone Visible Spectrometer”, Journal of Chemical Education, 2023, 100 (2), 546-553, doi: <a href="https://doi.org/10.1021/acs.jchemed.2c00642"> 10.1021/acs.jchemed.2c00642 </a>.
 </sub>
+<br></br>
 ---
 # Collaborations
 Department of Statistics, Faculty of Science, Khonkaen university, Thailand. <br/>
