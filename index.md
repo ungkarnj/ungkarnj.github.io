@@ -27,6 +27,8 @@ We proposed a compact deep-learning assisted platform for micro-rheological asse
 
 *S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut (2024). The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS). doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
 
+*T. Petiwathayakorn, N. Paradee, S. Hantrakool, U. Jarujareet, T. Intharah, S. Srichairatanakool, & P. Koonyosying (2024). A Compact Differential Dynamic Microscopy-based Device (cDDM): An Approach Tool for Early Detection of Hypercoagulable State in Transfusion-Dependent-β-Thalassemia Patients. In ACS Applied Bio Materials. American Chemical Society (ACS). . doi : <a href="https://doi.org/10.1021/acsabm.4c00516"> 10.1021/acsabm.4c00516 </a>.*
+
 ---
 ## Particle sizing
 <img src="img/particle_sizing.jpg" width="300"> <br/>
