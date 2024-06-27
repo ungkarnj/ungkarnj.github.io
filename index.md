@@ -20,7 +20,7 @@ email: ungkarn.jarujareet@nectec.or.th
 We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 
-*S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut. The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS), 2024. doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
+<sub>*S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut. The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS), 2024. doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*</sub>
 
 *T. Petiwathayakorn, N. Paradee, S. Hantrakool, U. Jarujareet, T. Intharah, S. Srichairatanakool, & P. Koonyosying. A Compact Differential Dynamic Microscopy-based Device (cDDM): An Approach Tool for Early Detection of Hypercoagulable State in Transfusion-Dependent-β-Thalassemia Patients. In ACS Applied Bio Materials. American Chemical Society (ACS), 2024. doi : <a href="https://doi.org/10.1021/acsabm.4c00516"> 10.1021/acsabm.4c00516 </a>.*
 
