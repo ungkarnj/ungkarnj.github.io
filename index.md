@@ -25,9 +25,9 @@ We proposed a compact deep-learning assisted platform for micro-rheological asse
 
 *U. Jarujareet, K. Wiratchawa, P. Panpisut and T. Intharah, "DeepDDM: A Compact Deep-Learning Assisted Platform for Micro-Rheological Assessment of Micro-Volume Fluids," in IEEE Access, vol. 11, pp. 66467-66477, 2023, doi: <a href="https://doi.org/10.1109/ACCESS.2023.3290496"> 10.1109/ACCESS.2023.3290496 </a>.*
 
-*S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut (2024). The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS). doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
+*S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut. The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS), 2024. doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
 
-*T. Petiwathayakorn, N. Paradee, S. Hantrakool, U. Jarujareet, T. Intharah, S. Srichairatanakool, & P. Koonyosying (2024). A Compact Differential Dynamic Microscopy-based Device (cDDM): An Approach Tool for Early Detection of Hypercoagulable State in Transfusion-Dependent-β-Thalassemia Patients. In ACS Applied Bio Materials. American Chemical Society (ACS). . doi : <a href="https://doi.org/10.1021/acsabm.4c00516"> 10.1021/acsabm.4c00516 </a>.*
+*T. Petiwathayakorn, N. Paradee, S. Hantrakool, U. Jarujareet, T. Intharah, S. Srichairatanakool, & P. Koonyosying. A Compact Differential Dynamic Microscopy-based Device (cDDM): An Approach Tool for Early Detection of Hypercoagulable State in Transfusion-Dependent-β-Thalassemia Patients. In ACS Applied Bio Materials. American Chemical Society (ACS), 2024. doi : <a href="https://doi.org/10.1021/acsabm.4c00516"> 10.1021/acsabm.4c00516 </a>.*
 
 ---
 ## Particle sizing
