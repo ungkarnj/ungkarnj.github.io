@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
 
 # Collaborations
