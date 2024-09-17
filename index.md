@@ -1,6 +1,6 @@
 
 
-[Research](./research.html).
+[Research](./research.html) | [Collaborations](./collaboration.html)
 
 # Bibiography
 
