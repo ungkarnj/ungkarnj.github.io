@@ -5,6 +5,12 @@ layout: default
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
 
 # Research
+
+## Beta-Thalassemia variant classification
+<img src="img/cddm-thalassemia.jpg" width="400"> <br/>
+We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
+
+---
 ## A portable device for microrheological characterisation
 <img src="img/device1.jpg" width="400"> <br/>
 We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
