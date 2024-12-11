@@ -7,7 +7,7 @@ layout: default
 # Research
 
 ## Beta-Thalassemia variant classification
-<img src="img/cddm-thalasemia.jpg width="400"> <br/>
+<img src="img/cddm-thalasemia.jpg" width="400"> <br/>
 We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
 
 ---
