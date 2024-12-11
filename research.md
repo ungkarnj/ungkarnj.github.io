@@ -10,6 +10,7 @@ layout: default
 <img src="img/cddm-thalasemia.jpg" width="400"> <br/>
 We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
 
+*U. Jarujareet,K. Wiratchawa, T. Petiwathayakorn, P. Koonyosying, S. Hantrakool, S. Srichairatanakool, and T. Intharah (2025). Classification of beta-thalassemia major and HbE/beta-thalassemia via deep learning of image structure function image. In Biomedical Signal Processing and Control (Vol. 102, p. 107265). Elsevier BV. doi : <a href="https://doi.org/10.1016/j.bspc.2024.107265"> https://doi.org/10.1016/j.bspc.2024.107265*
 ---
 ## A portable device for microrheological characterisation
 <img src="img/device1.jpg" width="400"> <br/>
