@@ -12,4 +12,4 @@ logo: logo.jpg
 github: is\_project\_page:false
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
