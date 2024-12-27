@@ -1,7 +1,5 @@
 
-
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
-{% seo %}
 
 # Bibiography
 
