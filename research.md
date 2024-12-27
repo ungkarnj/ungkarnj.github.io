@@ -7,14 +7,14 @@ layout: default
 # Research
 
 ## Beta-Thalassemia variant classification
-<img src="img/cddm-thalasemia.jpg" width="400"> <br/>
+<img src="img/cddm-thalasemia.jpg" width="400" alt="cddm thalasemia"> <br/>
 We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
 
 *U. Jarujareet,K. Wiratchawa, T. Petiwathayakorn, P. Koonyosying, S. Hantrakool, S. Srichairatanakool, and T. Intharah (2025). Classification of beta-thalassemia major and HbE/beta-thalassemia via deep learning of image structure function image. In Biomedical Signal Processing and Control (Vol. 102, p. 107265). Elsevier BV. doi : <a href="https://doi.org/10.1016/j.bspc.2024.107265"> https://doi.org/10.1016/j.bspc.2024.107265*
 
 ---
 ## A portable device for microrheological characterisation
-<img src="img/device1.jpg" width="400"> <br/>
+<img src="img/device1.jpg" width="400" alt="cddm compact differential dynamic microscopy"> <br/>
 We created a tool for characterising microrheological responses(e.g. loss and storage modulus, complex and shear viscosity) for biological fluids such as Human whole blood, Human blood plasma, Bovine serum albumin, Human saliva and so on.
 
 *S. Srisomboon, T. Intharah, U. Jarujareet, A. Toneluck, & P. Panpisut. The in vitro assessment of rheological properties and dentin remineralization of saliva substitutes containing propolis and aloe vera extracts (T. Chaubal, Ed.). Public Library of Science (PLoS), 2024. doi : <a href="https://doi.org/10.1371/journal.pone.0304156"> 10.1371/journal.pone.0304156 </a>.*
@@ -23,7 +23,7 @@ We created a tool for characterising microrheological responses(e.g. loss and st
 
 ---
 ## DeepDDM
-<img src="img/DeepDDM.jpg" width="400"> <br/>
+<img src="img/DeepDDM.jpg" width="400" alt="DeepDDM Deep-learning assisted differential dynamic microscopy"> <br/>
 We proposed a compact deep-learning assisted platform for micro-rheological assessment of micro-volume fluids for investigating artificial saliva rheological properties and thier relationship to dentin remineralization.
 
 
@@ -32,12 +32,12 @@ We proposed a compact deep-learning assisted platform for micro-rheological asse
 
 ---
 ## Particle sizing
-<img src="img/particle_sizing.jpg" width="300"> <br/>
+<img src="img/particle_sizing.jpg" width="300" alt="Particle sizing"> <br/>
 We developed an alorithm to recover micro-nano particle size distribution of colloidal particles from their motions.
 
 ---
 ## Smartphone spectrometer
-<img src="img/spectro.png" width="300"> <br/>
+<img src="img/spectro.png" width="300" alt="smartphone spectrometer"> <br/>
 Investigation of the optical properties of a material, which is based on how the material absorbs, transmits, and reflects light, can be used to study biochemical analytes. The optical spectroscopy is a common scientific instrument for quantifying the light absorbance of analytes. It broke up collected light into various light spectrum components and monitored light intensity as a function of wavelength. 
 Advancement in smartphone technology has led to the development of portable, low-cost smartphone-based spectrometers. These devices can be used in various applications, such as food and beverage analysis, medical diagnostics, and environmental monitoring.
 
