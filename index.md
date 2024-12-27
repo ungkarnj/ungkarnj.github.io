@@ -1,4 +1,5 @@
 
+{% seo %}
 
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
 
@@ -18,14 +19,6 @@ My research interests are in the use of light scattering techniques to investiga
 # Contact
 email: ungkarn.jarujareet@nectec.or.th
 
-
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "oj8anadm7t");
-</script>
 
 
 
