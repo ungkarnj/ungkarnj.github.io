@@ -6,11 +6,18 @@ layout: default
 
 # Research
 
+## Smartphone-based platform for micro and nanoparicles sizing
+<img src="img/lumisizer.jpg" width="400" alt="lumisizer"> <br/>
+Micro- and nanoparticle sizing plays a vital role in fields such as diagnostics, water treatment, and micro/nanomaterial synthesis, yet conventional differential dynamic microscopy (DDM) systems remain bulky, non-portable, and unable to resolve multi-modal size distributions. To overcome these limitations, we developed a compact, low-cost smartphone-based DDM platform using a reversed lens and 3D-printed housing to create a portable microscope capable of non-destructive, label-free particle sizing. By capturing Brownian motion of dispersed particles and analyzing image sequences with a differential dynamic algorithm coupled to non-negative least squares, the system determines accurate size distributions within four minutes using six concurrent processing streams. Our prototype successfully measured gold nanoparticles as small as 30 nm from only a 10 µL sample, demonstrating strong potential for accessible nanoparticle diagnostics and micro/nanomaterial synthesis workflows.
+
+*U. Jarujareet, & P. Koonyosying (2025). A smartphone platform for portable and cost-effective micro- and nanoparticle sizing. Sensors and Actuators A: Physical, 117372. <a href="https://doi.org/10.1016/j.sna.2025.117372"> https://doi.org/10.1016/j.sna.2025.117372 </a>.*
+
+
 ## Beta-Thalassemia variant classification
 <img src="img/cddm-thalasemia.jpg" width="400" alt="cddm thalasemia"> <br/>
 We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
 
-*U. Jarujareet,K. Wiratchawa, T. Petiwathayakorn, P. Koonyosying, S. Hantrakool, S. Srichairatanakool, and T. Intharah (2025). Classification of beta-thalassemia major and HbE/beta-thalassemia via deep learning of image structure function image. In Biomedical Signal Processing and Control (Vol. 102, p. 107265). Elsevier BV. doi : <a href="https://doi.org/10.1016/j.bspc.2024.107265"> https://doi.org/10.1016/j.bspc.2024.107265*
+*U. Jarujareet,K. Wiratchawa, T. Petiwathayakorn, P. Koonyosying, S. Hantrakool, S. Srichairatanakool, and T. Intharah (2025). Classification of beta-thalassemia major and HbE/beta-thalassemia via deep learning of image structure function image. In Biomedical Signal Processing and Control (Vol. 102, p. 107265). Elsevier BV. doi : <a href="https://doi.org/10.1016/j.bspc.2024.107265"> https://doi.org/10.1016/j.bspc.2024.107265 </a>.*
 
 ---
 ## A portable device for microrheological characterisation
