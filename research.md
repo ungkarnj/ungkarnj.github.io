@@ -12,7 +12,7 @@ Micro- and nanoparticle sizing plays a vital role in fields such as diagnostics,
 
 *U. Jarujareet, & P. Koonyosying (2025). A smartphone platform for portable and cost-effective micro- and nanoparticle sizing. Sensors and Actuators A: Physical, 117372. <a href="https://doi.org/10.1016/j.sna.2025.117372"> https://doi.org/10.1016/j.sna.2025.117372 </a>.*
 
-
+---
 ## Beta-Thalassemia variant classification
 <img src="img/cddm-thalasemia.jpg" width="400" alt="cddm thalasemia"> <br/>
 We proposed an image structure image (ISFI) of a whole blood, a novel feature for thalassemia variant classification using deep-learning approach.
@@ -36,11 +36,6 @@ We proposed a compact deep-learning assisted platform for micro-rheological asse
 
 *U. Jarujareet, K. Wiratchawa, P. Panpisut and T. Intharah, "DeepDDM: A Compact Deep-Learning Assisted Platform for Micro-Rheological Assessment of Micro-Volume Fluids," in IEEE Access, vol. 11, pp. 66467-66477, 2023, doi: <a href="https://doi.org/10.1109/ACCESS.2023.3290496"> 10.1109/ACCESS.2023.3290496 </a>.*
 
-
----
-## Particle sizing
-<img src="img/particle_sizing.jpg" width="300" alt="Particle sizing"> <br/>
-We developed an alorithm to recover micro-nano particle size distribution of colloidal particles from their motions.
 
 ---
 ## Smartphone spectrometer
