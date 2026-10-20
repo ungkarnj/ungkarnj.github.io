@@ -36,7 +36,7 @@ Dr Ungkarn Jarujareet was appointed as a researcher at National Electronics and 
 
 ### Journal Articles
 
-* **Lwin, N. T.**, Boonkanokwong, V., Phongsopitanun, W., **Jarujareet, U.**, Muangsanit, P., Areecheewakul, S., Chatchawalsaisin, J., & Nimmano, N. (2026). Development of azithromycin-loaded nanostructured lipid carriers for nebulized delivery in cystic fibrosis-associated *Pseudomonas aeruginosa* infections. *OpenNano*, 100326. [https://doi.org/10.1016/j.onano.2026.100326](https://doi.org/10.1016/j.onano.2026.100326)
+* Lwin, N. T., Boonkanokwong, V., Phongsopitanun, W., **Jarujareet, U.**, Muangsanit, P., Areecheewakul, S., Chatchawalsaisin, J., & Nimmano, N. (2026). Development of azithromycin-loaded nanostructured lipid carriers for nebulized delivery in cystic fibrosis-associated *Pseudomonas aeruginosa* infections. *OpenNano*, 100326. [https://doi.org/10.1016/j.onano.2026.100326](https://doi.org/10.1016/j.onano.2026.100326)
 
 * **Jarujareet, U.**, & Koonyosying, P. (2026). A smartphone platform for portable and cost-effective micro- and nanoparticle sizing. *Sensors and Actuators A: Physical*, 117372. [https://doi.org/10.1016/j.sna.2025.117372](https://doi.org/10.1016/j.sna.2025.117372)
 
@@ -57,8 +57,3 @@ Dr Ungkarn Jarujareet was appointed as a researcher at National Electronics and 
 * Wiratchawa, K., Petiwathayakorn, T., Srichairatanakool, S., Koonyosying, P., **Jarujareet, U.**, & Intharah, T. (2024). ThalNet: Deep learning for thalassemia via blood image structure function image. *2024 International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC)*. [https://doi.org/10.1109/ITC-CSCC62988.2024.10628173](https://doi.org/10.1109/ITC-CSCC62988.2024.10628173)
 
 ---
-
-## Contact
-
-📧 **Email:** [ungkarn.jarujareet@nectec.or.th](mailto:ungkarn.jarujareet@nectec.or.th)  
-🏢 **Affiliation:** National Electronics and Computer Technology Center (NECTEC), Pathum Thani, Thailand
