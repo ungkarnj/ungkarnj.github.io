@@ -1,6 +1,5 @@
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
 
----
 
 # Dr. Ungkarn Jarujareet
 
