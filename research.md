@@ -7,10 +7,6 @@ title: Research
 
 ---
 
-# Research Projects
-
----
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 30px;">
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <img src="img/lumisizer.jpg" alt="Smartphone-based nanoparticle sizing platform" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
