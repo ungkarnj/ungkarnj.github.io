@@ -1,28 +1,246 @@
----
----
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-@import "{{ site.theme }}";
+<style>
+  /* App Root Container */
+  :root {
+    --bg-main: #f8fafc;
+    --card-bg: #ffffff;
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+    --accent: #2563eb;
+    --accent-light: #eff6ff;
+    --border-color: #f1f5f9;
+    --shadow-sm: 0 2px 8px rgba(15, 23, 42, 0.04);
+    --shadow-md: 0 10px 25px -5px rgba(15, 23, 42, 0.08);
+    --radius-card: 20px;
+    --radius-pill: 999px;
+  }
 
-/* Import Modern Sans-Serif Font */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 16px 40px 16px;
+    max-width: 768px; /* Smartphone app layout width */
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-tap-highlight-color: transparent;
+  }
 
-body {
-  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif !important;
-  line-height: 1.7 !important;
-  color: #334155 !important;
-}
+  /* App Navigation Bar (Sticky Top Header) */
+  .app-header {
+    position: sticky;
+    top: 12px;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-pill);
+    padding: 8px 16px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
 
-h1, h2, h3, h4 {
-  font-family: 'Inter', sans-serif !important;
-  letter-spacing: -0.025em !important;
-  color: #0f172a !important;
-}
+  .app-header a {
+    text-decoration: none;
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    border-radius: var(--radius-pill);
+    transition: all 0.2s ease;
+  }
 
-/* Subtle Card Styling for Research Items */
-.research-card {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-  padding: 20px;
-  margin-bottom: 24px;
-}
+  .app-header a.active, .app-header a:hover {
+    background: var(--accent);
+    color: #ffffff;
+  }
+
+  /* Page Title Header */
+  .app-title-section {
+    margin-bottom: 24px;
+    padding: 0 8px;
+  }
+
+  .app-title-section h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin: 0 0 6px 0;
+    color: var(--text-primary);
+  }
+
+  .app-title-section p {
+    color: var(--text-secondary);
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  /* Modern Card Design */
+  .app-card {
+    background: var(--card-bg);
+    border-radius: var(--radius-card);
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .app-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 14px;
+    margin-bottom: 16px;
+  }
+
+  .card-badge-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+
+  .badge {
+    background: var(--accent-light);
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: var(--radius-pill);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0 8px 0;
+    line-height: 1.3;
+    color: var(--text-primary);
+  }
+
+  .card-text {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+  }
+
+  /* Action Buttons / DOI Links */
+  .app-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #f1f5f9;
+    color: #334155;
+    font-weight: 600;
+    font-size: 0.85rem;
+    padding: 10px 16px;
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .app-btn:hover {
+    background: var(--accent);
+    color: #ffffff;
+  }
+</style>
+
+<!-- Sticky Mobile App Navigation -->
+<div class="app-header">
+  <a href="./">Home</a>
+  <a href="./research.html" class="active">Research</a>
+  <a href="./collaboration.html">Collaborations</a>
+</div>
+
+<!-- Page Header -->
+<div class="app-title-section">
+  <h1>Research Projects</h1>
+  <p>Innovative optical instrumentation, deep learning & medical diagnostics.</p>
+</div>
+
+<!-- App Card 1 -->
+<div class="app-card">
+  <img src="img/lumisizer.jpg" alt="Nanoparticle Sizing" class="card-img">
+  <div class="card-badge-group">
+    <span class="badge">Micro-Sizing</span>
+    <span class="badge">Smartphone</span>
+  </div>
+  <h2 class="card-title">Smartphone Platform for Particle Sizing</h2>
+  <p class="card-text">A compact, low-cost portable microscope capable of non-destructive, label-free particle sizing down to 30 nm from a 10 µL sample in 4 minutes using non-negative least squares algorithms.</p>
+  <a href="https://doi.org/10.1016/j.sna.2025.117372" target="_blank" class="app-btn">
+    📄 View Publication ➔
+  </a>
+</div>
+
+<!-- App Card 2 -->
+<div class="app-card">
+  <img src="img/cddm-thalasemia.jpg" alt="Thalassemia Classification" class="card-img">
+  <div class="card-badge-group">
+    <span class="badge">AI & Diagnostics</span>
+    <span class="badge">Thalassemia</span>
+  </div>
+  <h2 class="card-title">Beta-Thalassemia Variant Classification</h2>
+  <p class="card-text">Pioneered Image Structure Function Image (ISFI) dynamic feature extraction coupled with deep learning for automated triage of severe beta-thalassemia variants.</p>
+  <a href="https://doi.org/10.1016/j.bspc.2024.107265" target="_blank" class="app-btn">
+    📄 View Publication ➔
+  </a>
+</div>
+
+<!-- App Card 3 -->
+<div class="app-card">
+  <img src="img/device1.jpg" alt="Microrheology Device" class="card-img">
+  <div class="card-badge-group">
+    <span class="badge">Microrheology</span>
+    <span class="badge">Bio-Fluids</span>
+  </div>
+  <h2 class="card-title">Portable Device for Microrheology</h2>
+  <p class="card-text">Designed portable optical instruments for analyzing micro-volume bio-fluid viscosity and viscoelasticity (hypercoagulability triage and artificial saliva testing).</p>
+  <a href="https://doi.org/10.1021/acsabm.4c00516" target="_blank" class="app-btn">
+    📄 View Publication ➔
+  </a>
+</div>
+
+<!-- App Card 4 -->
+<div class="app-card">
+  <img src="img/DeepDDM.jpg" alt="DeepDDM" class="card-img">
+  <div class="card-badge-group">
+    <span class="badge">Deep Learning</span>
+    <span class="badge">IEEE Access</span>
+  </div>
+  <h2 class="card-title">DeepDDM Platform</h2>
+  <p class="card-text">Deep-learning accelerated microrheological assessment for rapid physical characterization of micro-volume fluids (< 10 µL).</p>
+  <a href="https://doi.org/10.1109/ACCESS.2023.3290496" target="_blank" class="app-btn">
+    📄 View Publication ➔
+  </a>
+</div>
+
+<!-- App Card 5 -->
+<div class="app-card">
+  <img src="img/spectro.png" alt="Smartphone Spectrometer" class="card-img">
+  <div class="card-badge-group">
+    <span class="badge">Optics</span>
+    <span class="badge">Spectroscopy</span>
+  </div>
+  <h2 class="card-title">Dual-Beam Smartphone Spectrometer</h2>
+  <p class="card-text">Ultra-portable, dual-beam visible light spectrometer using smartphone camera sensors for chemical sensing and point-of-care testing.</p>
+  <a href="https://doi.org/10.1021/acs.jchemed.2c00642" target="_blank" class="app-btn">
+    📄 View Publication ➔
+  </a>
+</div>
