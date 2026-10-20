@@ -5,7 +5,6 @@ title: Research
 
 [Home](./) | [Research](./research.html) | [Collaborations](./collaboration.html)
 
----
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-bottom: 30px;">
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
